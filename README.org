@@ -1,0 +1,3 @@
+#+NAME: arch install scripts
+
+this repository has some shell scripts I wrote that can be used to install arch with minimal effort
